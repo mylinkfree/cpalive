@@ -5,7 +5,7 @@ import Iframe from 'react-iframe'
 export default function Home() {
   return (
     <div >
-      <Iframe url="https://waaexo.palatlaldate.net?utm_source=da57dc555e50572d&s1=177275&s2=1669597&s3=Search&j1=1"
+      <Iframe url="https://lustrousdrf.netlify.app"
        
        
         id=""
